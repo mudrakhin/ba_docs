@@ -22,6 +22,25 @@ Business analyst is a problem solver who studies how a company works, finds oper
 
 -   Basic understanding of IT systems and business structures [[1](https://building.nubank.com/what-does-a-ba-or-business-analyst-do-at-nubank/), [2](https://www.youtube.com/watch?v=STVRW9UzS48), [3](https://en.wikipedia.org/wiki/Business_analyst), [4](https://academy.smu.edu.sg/insights/business-analyst), [5](https://www.youtube.com/shorts/tVSJIfLYctI)]
 
+### 3. Add Content
+
+Create Markdown files in `input/notes/`:
+
+```
+input/notes/
+├── About/
+│   ├── 01-ba-summary.md
+│   └── essentials-guide.md
+├── Docs/
+│   ├── 02-ba-roles-responsibilities.md
+│   └── 03-ba-visual-diagrams.md
+|   └── 04-ba-assessment-checklist.md
+│       
+└── Related/
+    └── scrum-agile.md
+```
+
+
 ## 🧠 Credits & Vision
 
 Built by @sethuaung
