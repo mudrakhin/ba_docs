@@ -1,0 +1,11 @@
+{
+  "site": {
+    "name": "BA Docs",
+    "description": "Documentation for BA project",
+    "url": "https://mudrakhin.github.io/ba_docs"
+  },
+  "paths": {
+    "content_folder": "input/notes",
+    "output_folder": "output"
+  }
+}
