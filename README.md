@@ -1,3 +1,5 @@
+# Business Analyst Overview
+
 Business analyst is a problem solver who studies how a company works, finds operational gaps, and bridges the communication gap between business goals and technical or operational teams to recommend data-driven solutions. [[1](https://www.esade.edu/beyond/en/business-analyst/), [2](https://www.indeed.com/hire/job-description/business-analyst), [3](https://www.fnu.edu/what-does-a-business-analyst-do/), [4](https://academy.smu.edu.sg/insights/business-analyst)]
 
 ## Core Responsibilities
