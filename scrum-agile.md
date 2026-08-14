@@ -160,7 +160,7 @@ Adopting Agile and Scrum isn't just a process change; it's an investment in effi
 
 ---
 
-## Footer
+## Powered by Felixent
 
 Agile Project Management Infographic | Synthesized from PME & FELIXENT Materials
 
